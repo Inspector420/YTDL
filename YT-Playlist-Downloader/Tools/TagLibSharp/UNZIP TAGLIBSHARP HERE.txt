@@ -1,9 +1,0 @@
-Unzip the TagLibSharp package into this folder, as-is.
-
-Official GitHub:  https://github.com/mono/taglib-sharp
-                  (its releases are source code only, no ready-to-use DLL)
-
-Download:         https://www.nuget.org/packages/TagLibSharp
-                  (the official package, linked from the GitHub page)
-                  Click "Download package", rename the .nupkg file to .zip,
-                  then unzip it into this folder.
