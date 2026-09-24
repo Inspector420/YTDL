@@ -1,0 +1,5 @@
+Put yt-dlp.exe in this folder.
+
+Official GitHub:  https://github.com/yt-dlp/yt-dlp
+Download:         https://github.com/yt-dlp/yt-dlp/releases/latest
+                  -> the file named "yt-dlp.exe"
