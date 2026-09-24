@@ -1,0 +1,2 @@
+Put your saved YouTube playlist pages (.html) in this folder.
+See README.txt, step 1.
