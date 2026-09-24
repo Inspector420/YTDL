@@ -1,0 +1,9 @@
+Unzip a Windows ffmpeg build into this folder, as-is (any version).
+It must contain ffmpeg.exe and ffprobe.exe; the script finds them itself.
+
+Official GitHub:  https://github.com/FFmpeg/FFmpeg
+                  (source code only, no ready-to-use Windows files)
+
+Windows builds (linked from ffmpeg.org, same as https://www.gyan.dev/ffmpeg/builds/):
+Download:         https://github.com/GyanD/codexffmpeg/releases/latest
+                  -> the file ending in "-full_build.zip"
